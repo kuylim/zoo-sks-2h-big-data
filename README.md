@@ -25,7 +25,7 @@ Should have a prior experience with using
 
 ## High level architecture
 
-TODO insert image
+![enter image description here](https://raw.githubusercontent.com/kuylim/zoo-sks-2h-big-data/main/docker-infra/arch.jpg)
 
 ## Boot Up Big Data Environment
 🎬🎬🎬To Start all containers please navigate to directory `docker-infra` before execute command `docker-compose up -d` please update the mount directory in `docker-compose.yml` for `spark-master`
